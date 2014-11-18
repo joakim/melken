@@ -1,5 +1,5 @@
-# Mjölken
+# Melken
 
-[Licens](https://github.com/Mjolken/Mjolken/blob/master/LICENSE)
+[Lisens](https://github.com/joakim/melken/blob/master/LICENSE)
 
-Bilder & innehåll licensierade under [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.sv)
+Bilder og innhold er lisensiert under [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.no).
